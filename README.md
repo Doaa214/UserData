@@ -1,0 +1,6 @@
+## 🛠️ (Tech Stack)
+* **React 22** (Functional Components & Hooks)
+* **TypeScript** (Interfaces & Types)
+* **Tailwind CSS** (Styling)
+* **Vite** (Build Tool)
+* **Google Material Symbols** (Icons)
